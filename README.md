@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghost5554
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate with some like minded people 
 
 
