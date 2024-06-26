@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghost5554
+- 👋 Hi, I’m @nick5554
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate with some like minded people 
